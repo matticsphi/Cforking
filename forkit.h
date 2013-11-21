@@ -1,0 +1,27 @@
+/*
+ * header.h
+ *
+ *  Created on: Apr 8, 2011
+ *      Author: Mattics
+ */
+
+#ifndef HEADER_H_
+#define HEADER_H_
+
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
+#include <errno.h>
+#include <sys/stat.h>
+#include <sys/wait.h>
+#include <sys/types.h>
+#include <libgen.h>
+#include <limits.h>
+#include <dirent.h>
+#include <unistd.h>
+#include <fcntl.h>
+#include <time.h>
+#include <signal.h>
+
+#endif /* HEADER_H_ */
